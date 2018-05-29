@@ -377,24 +377,5 @@
                 <localos.jdbc.pass>root1234</localos.jdbc.pass>
             </properties>
         </profile>
-
-        <!--<profile>-->
-            <!--<id>unhejing</id>-->
-
-            <!--<activation>-->
-                <!--<activeByDefault>false</activeByDefault>-->
-            <!--</activation>-->
-            <!--<properties>-->
-                <!--<profileName>unhejing</profileName>-->
-
-                <!--<enableSign>false</enableSign>-->
-
-                <!--&lt;!&ndash;db&ndash;&gt;-->
-                <!--<localos.jdbc.driver>com.mysql.jdbc.Driver</localos.jdbc.driver>-->
-                <!--<localos.jdbc.url>jdbc:mysql://106.15.188.221:3306/lesson6</localos.jdbc.url>-->
-                <!--<localos.jdbc.user>root</localos.jdbc.user>-->
-                <!--<localos.jdbc.pass>root1234</localos.jdbc.pass>-->
-            <!--</properties>-->
-        <!--</profile>-->
     </profiles>
 </project>
